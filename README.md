@@ -19,3 +19,14 @@ Download Enhanced Resume: If using an uploaded resume, the enhanced resume will 
 Streamlit: For building the web application interface.
 GenAI: For leveraging AI capabilities to enhance resumes.
 PyPDF2: For reading PDF files.
+
+**Credits**
+Developed by Team Amphibius
+
+**License**
+This project is licensed under the MIT License.
+
+Feel free to customize this documentation template according to your project's specific details and requirements.
+
+**Contant Us**
+amphibiustech@gmail.com
