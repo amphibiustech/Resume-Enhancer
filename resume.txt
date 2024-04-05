@@ -1,0 +1,83 @@
+**K A N D A C E  L O U D O R**
+
+**Data Scientist & MLOps Engineer**
+
+**Contact**
+
+* Email: kloudor@email.com
+* Phone: (123) 456-7890
+* LinkedIn: www.linkedin.com/in/kandaceloudor
+* Github: github.com/kandaceloudor
+* Location: Mount Laurel, NJ
+
+**Summary**
+
+Highly accomplished data scientist and MLOps engineer with over 7 years of experience in building and deploying production-grade machine learning models. Expertise in Python, SQL, Git, time series forecasting, productionizing models, recommendation engines, and customer segmentation. Proven track record of delivering impactful solutions that drive business value and generate significant revenue. Seeking an MLOps role at Accenture to leverage my technical skills and experience to support the company's digital transformation journey.
+
+**Skills**
+
+* **Programming Languages:** Python (NumPy, Pandas, Scikit-learn, Keras, Flask), SQL (MySQL, Postgres)
+* **Data Modeling and Analysis:** Time Series Forecasting, Productionizing Models, Recommendation Engines, Customer Segmentation
+* **Cloud Computing:** AWS
+* **Software Development:** Git
+* **Communication and Presentation:** Strong written and verbal communication skills
+
+**Experience**
+
+**Data Scientist & MLOps Engineer**
+
+**Grubhub**
+
+* June 2018 - Present | Princeton, NJ
+
+**Responsibilities:**
+
+* **Developed and deployed a recommendation engine** to increase average order size by 7% through conditional recommendations based on past order history.
+* **Implemented time series forecasting techniques** to predict surge in orders, resulting in a 10-minute reduction in customer wait time.
+* **Modeled the ordering process** using 5 unique approaches to identify opportunities for increasing order output by 9%.
+* **Increased driver availability by 22%** by modeling incentives during peak hours.
+* **Partnered with product and engineering teams** to design and implement MLOps pipelines for model deployment and monitoring.
+* **Established and automated end-to-end data pipelines** for seamless data ingestion, pre-processing, and model training.
+
+**Data Scientist**
+
+**Spectrix Analytical Services**
+
+* March 2016 - June 2018 | Princeton, NJ
+
+**Responsibilities:**
+
+* **Built a customer attrition random forest model** that increased monthly retention by 12 basis points by identifying high-risk clients and providing targeted product recommendations.
+* **Collaborated with product and marketing teams** to determine effective client interaction strategies, increasing service opt-ins by 18%.
+* **Created a production recommendation engine** using Python, which improved user engagement and generated $225K in incremental annual revenue.
+* **Analyzed data surrounding prosthesis prototypes** to optimize design and save over $1M in development costs.
+
+**Entry-Level Data Analyst**
+
+**Avenica**
+
+* April 2015 - March 2016 | Mount Laurel, NJ
+
+**Responsibilities:**
+
+* **Conducted cohort analysis** to identify opportunities for reducing pricing and boosting revenue by $560,000 annually.
+* **Created operational reporting dashboards** in Tableau to enhance contractor scheduling and save $90,000 in the annual budget.
+* **Implemented a pricing experiment** that increased customer lifetime value by 23%.
+* **Managed client enrollment and service opt-in data**, ensuring accurate tracking and reporting.
+
+**Education**
+
+**Rutgers University**
+
+* B.S. in Statistics | September 2011 - April 2015 | New Brunswick, NJ
+
+**Certifications**
+
+* Certified MLOps Engineer (CMLOps)
+* AWS Certified Machine Learning - Specialty
+
+**Awards and Recognition**
+
+* 2021 Grubhub Innovation Award for Outstanding Contribution to Product Development
+* 2019 Spectrix Analytical Services Employee of the Year
+* 2015 Rutgers University Excellence in Data Science Award
